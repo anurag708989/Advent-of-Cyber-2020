@@ -1,7 +1,7 @@
 #Advent of Cyber 2020
 
 
-#1-web exploitation 
+#1-web exploitation (A Christman Crisis)  
 
 
 1-No answer needed
@@ -19,8 +19,21 @@
 
 
 
+# 2- Web Exploitation (The Elf Strikes back)
 
 
+1-What string of text needs added to the URL to get access to the upload page?
+->?id=ODIzODI5MTNiYmYw
+
+actual url path http://<ip>/index.php?id=ODIzODI5MTNiYmYw
+2-What type of file is accepted by the site?
+->image
+3-in which directry upload files are stored
+[: payload works = <reverse-shell-file>.png.php]
+/uploads/{use gobuser or dirbuster}
+4-no answer needed
+5-What is the flag in /var/www/flag.txt?
+THM{MGU3Y2UyMGUwNjExYTY4NTAxOWJhMzhh}
 
 
 
