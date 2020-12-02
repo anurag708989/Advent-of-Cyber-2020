@@ -51,6 +51,7 @@ actual url path http://<ip>/index.php?id=ODIzODI5MTNiYmYw
 ->image
 
 ### 3-in which directry upload files are stored
+![](7_2.png)
 ![](4_2.png)
 ![](5_2.png)
 [: payload works = <reverse-shell-file>.png.php]
@@ -58,7 +59,7 @@ actual url path http://<ip>/index.php?id=ODIzODI5MTNiYmYw
 ## /uploads/{use gobuser or dirbuster}
 
 #### 4-no answer needed
-![](7_2.png)
+
 
 ### 5-What is the flag in /var/www/flag.txt?
 ![](6_2.png)
