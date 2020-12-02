@@ -32,29 +32,36 @@ Tryhackme event Advent of Cyber 2020 !!!
 
 
 # 2- Web Exploitation (The Elf Strikes back)
-![](1_2.png)
-![](2_2.png)
-![](3_2.png)
-![](4_2.png)
-![](5_2.png)
-![](6_2.png)
-![](7_2.png)
-![](8_2.png)
+
+
+
+
 
 
 ### 1-What string of text needs added to the URL to get access to the upload page?
-->?id=ODIzODI5MTNiYmYw
+![](1_2.png)
+![](2_2.png)
+
+### ?id=ODIzODI5MTNiYmYw
 
 actual url path http://<ip>/index.php?id=ODIzODI5MTNiYmYw
 
 ### 2-What type of file is accepted by the site?
+![](3_2.png)
 ->image
 
 ### 3-in which directry upload files are stored
+![](4_2.png)
+![](5_2.png)
 [: payload works = <reverse-shell-file>.png.php]
-/uploads/{use gobuser or dirbuster}
+
+## /uploads/{use gobuser or dirbuster}
 
 #### 4-no answer needed
+![](7_2.png)
 
 ### 5-What is the flag in /var/www/flag.txt?
+![](6_2.png)
+
+![](8_2.png)
 #### THM{MGU3Y2UyMGUwNjExYTY4NTAxOWJhMzhh}
