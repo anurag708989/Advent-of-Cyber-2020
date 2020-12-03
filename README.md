@@ -66,3 +66,17 @@ actual url path http://<ip>/index.php?id=ODIzODI5MTNiYmYw
 
 ![](8_2.png)
 #### THM{MGU3Y2UyMGUwNjExYTY4NTAxOWJhMzhh}
+
+
+# 3- Web Exploitation (Christmas Choas)
+
+### 1-no answer needed
+
+
+
+### 2-what is the flag
+
+THM{885ffab980e049847516f9d8fe99ad1a}
+
+
+
